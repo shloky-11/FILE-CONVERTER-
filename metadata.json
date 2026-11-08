@@ -1,0 +1,6 @@
+{
+  "name": "OmniConvert - Universal Batch File Transcoder",
+  "description": "High-performance Windows desktop tool for batch converting images, documents, and video files 100% locally with drag-and-drop, real-time progress, and alert notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
